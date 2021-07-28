@@ -1,0 +1,9 @@
+.images-class {
+      display:flex;
+      justify-content:space-evenly;
+      align-items: center;
+}
+.class-image img{
+    width:450px;
+    height:425px;
+}
